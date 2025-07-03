@@ -6,7 +6,7 @@ on:
       RECOVERY_URL:
         description: 'RECOVERY URL'
         required: true
-        default: 'https://transfer.sh/(RECOMMENDED)'
+        default: https://www.mediafire.com/file/ishnqh445izprch/recovery.img/file
 
 env:
   RECOVERY_URL: https://www.mediafire.com/file/ishnqh445izprch/recovery.img/file
